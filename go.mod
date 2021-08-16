@@ -1,4 +1,4 @@
-module librenms-go-client
+module github.com/Rukas/librenms-go-client
 
 go 1.16
 
