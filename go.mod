@@ -1,4 +1,4 @@
-module go-librenms
+module librenms-go-client
 
 go 1.16
 

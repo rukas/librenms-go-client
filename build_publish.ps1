@@ -1,2 +1,2 @@
 go test -v ./...
-go build -o go-librenms
+go build -o librenms-go-client
